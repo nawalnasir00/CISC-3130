@@ -1,14 +1,8 @@
-# Hello World
+# Grade Calculator
 
-The Hello World program is a simple program that displays "Hello, World!" to the user. The program has a class and a main method. The println statement is required for the user to see the message. The context within the quotation marks is what is displayed to the user. 
+The Grade Calculator allows students to input their points per section and calculate how many points they earned this semester. The Grade Calculator also converts the total amount of points to a letter grade. 
 
 
-The section is intended to explain future projects or assignments. 
 
-Examples of such topics covered in this section are: 
-- what the project(s) entails 
-- function 
-- what steps were taken to complete
-etc. 
 
 
